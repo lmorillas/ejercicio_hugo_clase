@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/hugo/peliculas/la-jungla-de-cristal/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/peliculas/la-jungla-de-cristal/</loc>
     <lastmod>2021-09-27T09:10:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/hugo/peliculas/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/peliculas/</loc>
     <lastmod>2021-09-27T09:10:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/hugo/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/</loc>
     <lastmod>2021-09-27T09:10:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/hugo/contacto/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/contacto/</loc>
     <lastmod>2021-09-21T09:58:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/hugo/categories/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/categories/</loc>
   </url><url>
-    <loc>http://localhost/hugo/tags/</loc>
+    <loc>http://localhost/ejercicio_hugo_clase/tags/</loc>
   </url>
 </urlset>

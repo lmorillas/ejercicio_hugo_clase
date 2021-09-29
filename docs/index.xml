@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sitio Hugo de Prueba</title>
-    <link>http://localhost/hugo/</link>
+    <link>http://localhost/ejercicio_hugo_clase/</link>
     <description>Recent content on Sitio Hugo de Prueba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 27 Sep 2021 09:10:08 +0200</lastBuildDate><atom:link href="http://localhost/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 09:10:08 +0200</lastBuildDate><atom:link href="http://localhost/ejercicio_hugo_clase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Jungla De Cristal</title>
-      <link>http://localhost/hugo/peliculas/la-jungla-de-cristal/</link>
+      <link>http://localhost/ejercicio_hugo_clase/peliculas/la-jungla-de-cristal/</link>
       <pubDate>Mon, 27 Sep 2021 09:10:08 +0200</pubDate>
       
-      <guid>http://localhost/hugo/peliculas/la-jungla-de-cristal/</guid>
+      <guid>http://localhost/ejercicio_hugo_clase/peliculas/la-jungla-de-cristal/</guid>
       <description>La película se desarrolla en blablab a</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://localhost/hugo/contacto/</link>
+      <link>http://localhost/ejercicio_hugo_clase/contacto/</link>
       <pubDate>Tue, 21 Sep 2021 09:58:33 +0200</pubDate>
       
-      <guid>http://localhost/hugo/contacto/</guid>
+      <guid>http://localhost/ejercicio_hugo_clase/contacto/</guid>
       <description>Datos de contacto de la empresa  Teléfono Dirección Email &amp;hellip;  Descarga de pdf</description>
     </item>
     
